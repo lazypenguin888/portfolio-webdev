@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/portfolio-webdev/static/css/main.33f89c35.css",
+    "main.js": "/portfolio-webdev/static/js/main.e1ec7294.js",
+    "static/media/webdev_page.png": "/portfolio-webdev/static/media/webdev_page.4f74a75ff81d2226ffc7.png",
+    "static/media/webdev_code.png": "/portfolio-webdev/static/media/webdev_code.6762e7918b90ca7a9d2c.png",
+    "index.html": "/portfolio-webdev/index.html",
+    "main.33f89c35.css.map": "/portfolio-webdev/static/css/main.33f89c35.css.map",
+    "main.e1ec7294.js.map": "/portfolio-webdev/static/js/main.e1ec7294.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33f89c35.css",
+    "static/js/main.e1ec7294.js"
+  ]
+}
